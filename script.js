@@ -17,7 +17,6 @@ setInterval(() => {
     else if(currenttime==3){
         ++currenttime;
         petal3.style.fill="#FFB7C5";
-        petal3.style.boxShadow = "0px -5px 30px #FFB7C5";
     }
     else if(currenttime==4){
         ++currenttime;
